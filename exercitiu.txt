@@ -16,4 +16,4 @@ int main () {
   cout << k << endl;
   cout << n << endl;
   return 0;
-}
+}aasasd
